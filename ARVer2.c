@@ -3,7 +3,7 @@
 int main(void) {
 	
 	//fixed array size and its elements
-  int len,i,a[]={5,4,3,2,1};
+  int len=0,i,a[]={5,4,3,2,1};
 	
 	//storing the array in another array for further operations on the original array
 	for(i=0;i<len;i++)
